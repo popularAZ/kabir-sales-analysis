@@ -55,7 +55,7 @@ Overall sales volume has been declining year-on-year — from **₦104,720** in 
 | Tola | 7 ✅ Most Active |
 
 
-### 3.4 Financial Contribution (SUMIF)
+### Financial Contribution (SUMIF)
 
 | Sales Rep | Total Qty Sold | Total Revenue (₦) |
 |---|---|---|
