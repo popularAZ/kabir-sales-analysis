@@ -1,7 +1,3 @@
-### Name: Popoola Abdulazeez
-### IOTBTECH DATA ANALYTICS ASSIGNMENT
-### Due Date: 3RD MAY 2026
-
 # Kabir Retail Solutions — Regional Sales Performance Audit
 
 **Period Covered:** 2010 – 2012
