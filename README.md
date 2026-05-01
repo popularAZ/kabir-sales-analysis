@@ -89,7 +89,7 @@ Overall sales volume has been declining year-on-year — from **₦104,720** in 
 | Ada | 194 | 42,680 |
 | Ayo | 140 | 30,800 |
 
-### 3.5 Yearly Trends — Quantity Sold
+### Yearly Trends of Quantity Sold
 
 | Sales Rep | 2010 | 2011 | 2012 |
 |---|---|---|---|
