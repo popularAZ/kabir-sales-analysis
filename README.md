@@ -17,30 +17,6 @@ Overall sales volume has been declining year-on-year — from **₦104,720** in 
 
 ## 2. Visual Evidence
 
-### 2.1 Representative Performance Table (COUNTIF & SUMIF Formulas)
-
-> 📸 **[INSERT IMAGE HERE — Screenshot showing the Representative Performance Table with formulas visible in the formula bar or with Ctrl+~ formula display mode active]**
-
-*Caption: Sales Rep transaction counts (COUNTIF) and total revenue (SUMIF) per representative.*
-
----
-
-### 2.2 Yearly Summary Table (Quantity Sold by Year)
-
-> 📸 **[INSERT IMAGE HERE — Screenshot showing the Yearly Summary Table (Quantity Sold by Year per Sales Rep) with formulas displayed]**
-
-*Caption: Yearly quantity sold breakdown per Sales Rep for 2010, 2011, and 2012.*
-
----
-
-### 2.3 Core Functions Summary Table (SUM, MIN, MAX, AVERAGE, COUNT, COUNTA)
-
-> 📸 **[INSERT IMAGE HERE — Screenshot showing the Functions summary table with formula bar or Ctrl+~ formula display active]**
-
-*Caption: Summary statistics including total quantity (1,224), total amount (₦269,280), minimum (₦5,280), maximum (₦20,900), and average (₦11,220).*
-
----
-
 ### Conditional Formatting: Green Highlights (Amount > ₦15,000) & Red Highlights (Amount < ₦6,000)
 
 ![Formatting image1](<images/formatting image1.png>)
